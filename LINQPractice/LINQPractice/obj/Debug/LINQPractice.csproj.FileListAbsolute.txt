@@ -1,0 +1,12 @@
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQPractice\LINQPractice\bin\Debug\LINQPractice.exe.config
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQPractice\LINQPractice\bin\Debug\LINQPractice.exe
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQPractice\LINQPractice\bin\Debug\LINQPractice.pdb
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQPractice\LINQPractice\obj\Debug\LINQPractice.csprojResolveAssemblyReference.cache
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQPractice\LINQPractice\obj\Debug\LINQPractice.exe
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQPractice\LINQPractice\obj\Debug\LINQPractice.pdb
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQ\LINQPractice\LINQPractice\LINQPractice\bin\Debug\LINQPractice.exe.config
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQ\LINQPractice\LINQPractice\LINQPractice\obj\Debug\LINQPractice.exe
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQ\LINQPractice\LINQPractice\LINQPractice\obj\Debug\LINQPractice.pdb
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQ\LINQPractice\LINQPractice\LINQPractice\bin\Debug\LINQPractice.exe
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQ\LINQPractice\LINQPractice\LINQPractice\bin\Debug\LINQPractice.pdb
+C:\Users\denis.staritin\Documents\Lessons\Lesson12\LINQ\LINQPractice\LINQPractice\LINQPractice\obj\Debug\LINQPractice.csprojResolveAssemblyReference.cache
